@@ -1,5 +1,5 @@
 # Olá, Seja bem vindo ao meu perfil GitHub!
-<img src="https://github.com/Thauzin/Thauany/assets/147927196/77cbf3e1-14d4-4beb-b201-64ae3c88caf1" alt="octocat" width="100" height="100">
+<img src="https://github.com/Thauzin/Thauany/assets/147927196/77cbf3e1-14d4-4beb-b201-64ae3c88caf1" alt="octocat" width="100" height="100"> 
 
 ## Me chamo Thauany e aqui são alguma curiosidades sobre mim!  
 

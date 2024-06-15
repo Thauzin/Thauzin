@@ -1,10 +1,10 @@
-# Olá, Seja bem vindo ao meu perfil GitHub!
+# Olá, seja bem vindo ao meu perfil GitHub!
 <img src="https://github.com/Thauzin/Thauany/assets/147927196/77cbf3e1-14d4-4beb-b201-64ae3c88caf1" alt="octocat" width="100" height="100"> 
 
 ## Me chamo Thauany e aqui são alguma curiosidades sobre mim!  
 
-- 💼 Atualmente estou trabalhando em como aprendiz em T.I no Grupo Madero. 
-- 🎓 Atualmente estou aprendendo Programação Orientada a objetos na minha graduação em Engenharia de Software.
+- 💼 Atualmente estou trabalhando como aprendiz em T.I no Grupo Madero. 
+- 🎓 No momento estou aprendendo Programação Orientada a objetos na minha graduação em Engenharia de Software.
 - 💻 Tenho 19 anos e estou sempre procurando evoluir na área de tecnologia, me aperfeiçoando um pouco mais a cada dia. 
 
 

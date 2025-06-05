@@ -3,7 +3,7 @@
 
 ## Me chamo Thauany e aqui são alguma curiosidades sobre mim!  
 
-- 💼 Atualmente estou trabalhando como estagiaria de suporte em T.I na Continental. 
+- 🎮Gosto muito da área de jogos. 
 - 🎓 No momento estou aprendendo Banco de dados na minha graduação em Engenharia de Software.
 - 💻 Tenho 20 anos e estou sempre procurando evoluir na área de tecnologia, me aperfeiçoando um pouco mais a cada dia. 
 

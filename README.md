@@ -3,8 +3,8 @@
 
 ## Me chamo Thauany e aqui são alguma curiosidades sobre mim!  
 
-- 🎮Gosto muito da área de jogos. 
-- 🎓 No momento estou aprendendo Node.js e programação de jogos no GameMaker.
+- 🎮Gosto muito da área de jogos e já criei um que está disponivel no ich.io! 
+- 🎓 No momento estou aprendendo API do spotify e visão computacional. 
 - 💻 Tenho 20 anos e estou sempre procurando evoluir na área de tecnologia, me aperfeiçoando um pouco mais a cada dia. 
 
 
